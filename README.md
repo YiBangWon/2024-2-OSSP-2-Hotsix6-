@@ -21,8 +21,8 @@
   <tr>
     <td>손한솔</td>
     <td>컴퓨터공학과</td>
-    <td>0000</td>
-    <td>0000</td>
+    <td>yibangwon@dgu.ac.kr</td>
+    <td>Backend</td>
   </tr>
   <tr>
     <td>손동진</td>
